@@ -22,8 +22,9 @@ Our [processed dataset](./processed_data.csv) includes all annotations for a sin
 ReviewId: The unique id of the review.
 SentenceId: The unique id of sentence within a review.
 Text: The text of the review sentence (or comment).
-Label1: The annotated class for _Label1_.
-Label2: The annotated class for _Label2_.
+Label1: The annotated class for 'Label1'.
+Label2: The annotated class for 'Label2'.
+set: The (train-test) split, a comments belongs to.
 ```
 
 Our [raw annotated dataset](./raw_annotated_data.csv) includes all annotations as well as metadata on the comments. Each row represents a single rater's annotation for a single review. This file includes an addition column:
