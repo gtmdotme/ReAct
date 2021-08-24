@@ -37,7 +37,7 @@ TurkerId: The unique id of the turker.
 [Gautam Choudhary](mailto:gautamc@adobe.com), [Natwar Modani](mailto:nmodani@adobe.com), [Nitish Maurya](mailto:nmaurya@adobe.com)
 
 ## Citation
-This work is under peer review!
+This work is accepted at International conference on [Web Information Systems Engineering (WISE), 2021](http://www.wise-conferences.org/2021/index.html).
 
 ## Disclaimer
 - We are aware that the dataset contains biases and may not be representative of global diversity.
