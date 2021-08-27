@@ -39,10 +39,6 @@ TurkerId: The unique id of the turker.
 ## Citation
 This work is accepted at International conference on [Web Information Systems Engineering (WISE), 2021](http://www.wise-conferences.org/2021/index.html).
 
-## Disclaimer
-- We are aware that the dataset contains biases and may not be representative of global diversity.
-- Potential biases in the data include: inherent biases in OpenReview and user base biases, demographic biases among the annotators as all were native US citizens. These are likely to affect labelling, precision, and recall for a trained model.
-- Anyone using this dataset should be aware of these limitations of the dataset and the licensing terms.
   
 ## License Information
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />ReAct is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
