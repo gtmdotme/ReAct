@@ -1,6 +1,8 @@
 # ReAct 
 
-ReAct is a corpus of 1.2k+ carefully curated review comments extracted from ICLR papers reviewed at [OpenReview](https://openreview.net/) for the year [2018](https://openreview.net/group?id=ICLR.cc/2018/Conference), with human annotations to two types of labels. Below is a summary of the dataset statistics: 
+ReAct is a corpus of 1.2k+ carefully curated review comments extracted from ICLR papers reviewed at [OpenReview](https://openreview.net/) for the year [2018](https://openreview.net/group?id=ICLR.cc/2018/Conference), with human annotations to two types of labels.  The review comments were randomly selected from a large pool of English language peer reviews.  The annotations were performed by Mechanical Turk Masters located in the U.S.  Demographic information about the reviewers and annotators is unknown and may not be representative of global diversity.  
+  
+Below is a summary of the dataset statistics:
   
 | Parameters        | Values           |
 | ------------- |:-------------:|
