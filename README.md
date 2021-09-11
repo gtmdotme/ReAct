@@ -32,6 +32,7 @@ Our [raw annotated dataset](./raw_annotated_data.csv) includes all annotations a
 TurkerId: The unique id of the turker.
 ```
 
+Finally, the [unlabelled dataset](./unlabelled_review_corpus_52k.txt) includes all the unlabelled review comments (52k+), a subset of which is used for annotation. Each new line represents a review comment.
 
 ## Contact 
 [Gautam Choudhary](mailto:gautamc@adobe.com), [Natwar Modani](mailto:nmodani@adobe.com), [Nitish Maurya](mailto:nmaurya@adobe.com)
