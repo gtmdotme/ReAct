@@ -8,7 +8,7 @@ Below is a summary of the dataset statistics:
 | ------------- |:-------------:|
 | Number of examples     | 1,250 |
 | Number of 'Label1' classes   | 2 |
-| Number of 'Label' classes   | 7 |
+| Number of 'Label2' classes   | 7 |
 | Average token length of text | ~23 |
 | No. of samples w/ 4+ raters agreeing on 'Label1' | 988 (79.04\%) |
 | No. of samples w/ 4+ raters agreeing on 'Label2' | 876 (70.08\%) |
