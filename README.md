@@ -40,7 +40,17 @@ Finally, the [unlabelled dataset](./unlabelled_review_corpus_52k.txt) includes a
 [Gautam Choudhary](mailto:gautamc@adobe.com), [Natwar Modani](mailto:nmodani@adobe.com), [Nitish Maurya](mailto:nmaurya@adobe.com)
 
 ## Citation
-This work is accepted at International conference on [Web Information Systems Engineering (WISE), 2021](http://www.wise-conferences.org/2021/index.html).
+This work is accepted at International conference on [Web Information Systems Engineering (WISE), 2021](http://www.wise-conferences.org/2021/index.html). If you use this dataset for your publication, please cite the original paper:
+```
+@inproceedings{choudhary2021react,
+  title={ReAct: A Review Comment Dataset for Actionability (and more)},
+  author={Choudhary, Gautam and Modani, Natwar and Maurya, Nitish},
+  booktitle={International Conference on Web Information Systems Engineering},
+  pages={336--343},
+  year={2021},
+  organization={Springer}
+}
+```
 
   
 ## License Information
