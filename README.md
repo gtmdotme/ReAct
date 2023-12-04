@@ -37,7 +37,7 @@ TurkerId: The unique id of the turker.
 Finally, the [unlabelled dataset](./unlabelled_review_corpus_52k.txt) includes all the unlabelled review comments (52k+), a subset of which is used for annotation. Each new line represents a review comment.
 
 ## Contact 
-[Gautam Choudhary](mailto:gautamc@adobe.com), [Natwar Modani](mailto:nmodani@adobe.com), [Nitish Maurya](mailto:nmaurya@adobe.com)
+[Gautam Choudhary](mailto:gc.iitr@gmail.com), [Natwar Modani](mailto:nmodani@adobe.com), [Nitish Maurya](mailto:nmaurya@adobe.com)
 
 ## Citation
 This work is accepted at International conference on [Web Information Systems Engineering (WISE), 2021](http://www.wise-conferences.org/2021/index.html). If you use this dataset for your publication, please cite the original paper:
